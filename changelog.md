@@ -13,4 +13,3 @@ JF: Fixed Job 4) fixed error where display was not correct - Feb 2, 2017
 JF: Fixed Job 2) fixed error where display was not correct - Feb 2, 2017
 JF: Fixed Job 2) routing for "Last" link - Feb 2, 2017
 JF: Created changelog - Feb 2, 2017
-
