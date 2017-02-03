@@ -11,8 +11,9 @@ class First extends Application
 	}
 
 	/**
-	 * Homepage for our app
-	 */
+		This is the "first" page link, which can be found on the homepage.
+		The page should shohw a picture of Bob Monkhouse and his quote. 
+	**/
 	public function index()
 	{
 		// this is the view we want shown
