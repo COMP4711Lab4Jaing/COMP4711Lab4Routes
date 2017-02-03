@@ -5,7 +5,8 @@ Team conventions:
 Newest first 
 
 ## Log
-AR: Fixed Job 1) Added route for "First" link - Feb 3, 2017 
+AR: Fixed Job 3) Fixed route for top left image - Feb 3, 2017
+AR: Fixed Job 1) Added route for "First" link - Feb 3, 2017
 JF: Fixed Job 10) Added route to display a random quote when an invalid URL is used - Feb 2, 2017
 JF: Fixed Job 8) used regular expression routing to display a quote from Isaac Asimov - Feb 2, 2017
 JF: Fixed Job 6) Added new callback routing rule to display an image instead of a webpage - Feb 2, 2017
