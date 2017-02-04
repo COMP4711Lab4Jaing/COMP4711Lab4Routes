@@ -49,10 +49,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
-$route['default_controller'] = 'welcome';
-$route['404_override'] = 'welcome/random';
+$route['default_controller'] = 'Hogwarts';
+//$route['default_controller'] = 'welcome';
+$route['404_override'] = 'Hogwarts/random';
 $route['translate_uri_dashes'] = FALSE;
-$route['lock/(:any)/(:any)'] = "Welcome/shucks";
+$route['lock/(:any)/(:any)'] = "Hogwarts/shucks";
 $route['dunno'] = function() {
 	$source = '../data/mountains.jpg'; // an image you provide, outside of "oublic"!
 	// set the mime type for that image (jpeg, png, etc)
