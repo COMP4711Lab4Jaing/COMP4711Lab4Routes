@@ -63,3 +63,4 @@ $route['dunno'] = function() {
 }; 
 $route['comp\d\d\d\d/(:any)'] = "wise/bingo";
 $route['sleep'] = "First/zzz";
+$route['show/(:any)'] = "First/gimme/3";
