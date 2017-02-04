@@ -5,6 +5,7 @@ Team conventions:
 Newest first 
 
 ## Log
+AR: Fixed Job 7) Fixed route for homepage to Hogwarts - Feb 3, 2017
 AR: Fixed Job 7) Fixed route for lower middle image - Feb 3, 2017
 AR: Fixed Job 5) Fixed route for top right image - Feb 3, 2017
 AR: Fixed Job 3) Fixed route for top left image - Feb 3, 2017
